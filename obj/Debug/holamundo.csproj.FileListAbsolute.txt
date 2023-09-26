@@ -1,0 +1,10 @@
+C:\Users\ubunt\source\repos\holamundo\bin\Debug\holamundo.exe.config
+C:\Users\ubunt\source\repos\holamundo\bin\Debug\holamundo.exe
+C:\Users\ubunt\source\repos\holamundo\bin\Debug\holamundo.pdb
+C:\Users\ubunt\source\repos\holamundo\obj\Debug\holamundo.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\holamundo\obj\Debug\holamundo.Properties.Resources.resources
+C:\Users\ubunt\source\repos\holamundo\obj\Debug\holamundo.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\holamundo\obj\Debug\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\holamundo\obj\Debug\holamundo.exe
+C:\Users\ubunt\source\repos\holamundo\obj\Debug\holamundo.pdb
+C:\Users\ubunt\source\repos\holamundo\obj\Debug\holamundo.Form.resources
