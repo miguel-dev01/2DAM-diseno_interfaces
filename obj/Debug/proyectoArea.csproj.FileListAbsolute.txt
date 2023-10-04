@@ -1,0 +1,14 @@
+C:\Users\ubunt\source\repos\ejercicios\bin\Debug\ejercicios.exe.config
+C:\Users\ubunt\source\repos\ejercicios\bin\Debug\ejercicios.exe
+C:\Users\ubunt\source\repos\ejercicios\bin\Debug\ejercicios.pdb
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\ejercicios.Properties.Resources.resources
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\ejercicios.exe
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\ejercicios.pdb
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.Menu.resources
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.FormCalculadora.resources
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.Area.resources
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.Funciones.resources
+C:\Users\ubunt\source\repos\ejercicios\obj\Debug\proyectoArea.FormAdivinar.resources

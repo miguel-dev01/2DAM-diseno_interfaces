@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace holamundo.Properties
+namespace ejercicios.Properties
 {
 
 
