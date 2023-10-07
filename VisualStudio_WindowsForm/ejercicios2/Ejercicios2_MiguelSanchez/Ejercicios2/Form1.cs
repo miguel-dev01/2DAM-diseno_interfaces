@@ -14,6 +14,7 @@ namespace Ejercicios2
     {
         private int[] numeros = new int[10];
         private int posicionNumero = 0;
+
         public FormEjercicios2()
         {
             InitializeComponent();
