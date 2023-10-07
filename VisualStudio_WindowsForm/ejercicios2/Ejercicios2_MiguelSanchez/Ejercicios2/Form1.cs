@@ -51,6 +51,7 @@ namespace Ejercicios2
             }
         }
 
+	// Metodo para saber si un numero es primo o no
         private String esPrimo(int numero)
         {
             if (numero <= 1)
@@ -124,6 +125,7 @@ namespace Ejercicios2
             lblMenor.Text = "Menor: " + lstBoxResult.Items[0].ToString();
         }
 
+	// Metodo para ordenar un array de enteros, con algoritmo de la burbuja
         private int[] ordenacionBurbuja()
         {
             int[] arregloOrdenado = this.numeros;
