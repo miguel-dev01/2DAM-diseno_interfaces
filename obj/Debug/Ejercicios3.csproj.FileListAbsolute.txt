@@ -1,0 +1,11 @@
+C:\Users\ubunt\source\repos\Ejercicios3\bin\Debug\Ejercicios3.exe.config
+C:\Users\ubunt\source\repos\Ejercicios3\bin\Debug\Ejercicios3.exe
+C:\Users\ubunt\source\repos\Ejercicios3\bin\Debug\Ejercicios3.pdb
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.LoginForm.resources
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.Properties.Resources.resources
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.exe
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.pdb
+C:\Users\ubunt\source\repos\Ejercicios3\obj\Debug\Ejercicios3.Menu.resources
