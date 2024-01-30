@@ -1,0 +1,10 @@
+C:\Users\ubunt\source\repos\ejercicio_calculadora\bin\Debug\ejercicio_calculadora.exe.config
+C:\Users\ubunt\source\repos\ejercicio_calculadora\bin\Debug\ejercicio_calculadora.exe
+C:\Users\ubunt\source\repos\ejercicio_calculadora\bin\Debug\ejercicio_calculadora.pdb
+C:\Users\ubunt\source\repos\ejercicio_calculadora\obj\Debug\ejercicio_calculadora.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\ejercicio_calculadora\obj\Debug\ejercicio_calculadora.FormCalculadora.resources
+C:\Users\ubunt\source\repos\ejercicio_calculadora\obj\Debug\ejercicio_calculadora.Properties.Resources.resources
+C:\Users\ubunt\source\repos\ejercicio_calculadora\obj\Debug\ejercicio_calculadora.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\ejercicio_calculadora\obj\Debug\ejercicio_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\ejercicio_calculadora\obj\Debug\ejercicio_calculadora.exe
+C:\Users\ubunt\source\repos\ejercicio_calculadora\obj\Debug\ejercicio_calculadora.pdb

@@ -1,0 +1,10 @@
+C:\Users\ubunt\source\repos\ejercicioHerencia\bin\Debug\ejercicioHerencia.exe.config
+C:\Users\ubunt\source\repos\ejercicioHerencia\bin\Debug\ejercicioHerencia.exe
+C:\Users\ubunt\source\repos\ejercicioHerencia\bin\Debug\ejercicioHerencia.pdb
+C:\Users\ubunt\source\repos\ejercicioHerencia\obj\Debug\ejercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\ejercicioHerencia\obj\Debug\ejercicioHerencia.FormCuentaBancaria.resources
+C:\Users\ubunt\source\repos\ejercicioHerencia\obj\Debug\ejercicioHerencia.Properties.Resources.resources
+C:\Users\ubunt\source\repos\ejercicioHerencia\obj\Debug\ejercicioHerencia.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\ejercicioHerencia\obj\Debug\ejercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\ejercicioHerencia\obj\Debug\ejercicioHerencia.exe
+C:\Users\ubunt\source\repos\ejercicioHerencia\obj\Debug\ejercicioHerencia.pdb

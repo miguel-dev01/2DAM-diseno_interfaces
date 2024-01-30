@@ -1,0 +1,11 @@
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\bin\Debug\ExamenMiguelDiseñoInterfacesCajero.exe.config
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\bin\Debug\ExamenMiguelDiseñoInterfacesCajero.exe
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\bin\Debug\ExamenMiguelDiseñoInterfacesCajero.pdb
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.FormCajero.resources
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.Properties.Resources.resources
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.exe
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.pdb
+C:\Users\ubunt\source\repos\ExamenMiguelDiseñoInterfacesCajero\obj\Debug\ExamenMiguelDiseñoInterfacesCajero.Cajero.resources

@@ -1,0 +1,11 @@
+C:\Users\ubunt\source\repos\MDIwindowsForm\bin\Debug\MDIwindowsForm.exe.config
+C:\Users\ubunt\source\repos\MDIwindowsForm\bin\Debug\MDIwindowsForm.exe
+C:\Users\ubunt\source\repos\MDIwindowsForm\bin\Debug\MDIwindowsForm.pdb
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.FormHijo.resources
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.Properties.Resources.resources
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.exe
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.pdb
+C:\Users\ubunt\source\repos\MDIwindowsForm\obj\Debug\MDIwindowsForm.FormPadre.resources

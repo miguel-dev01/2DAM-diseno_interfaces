@@ -1,0 +1,10 @@
+C:\Users\ubunt\source\repos\ejercicio1clases\bin\Debug\ejercicio1clases.exe.config
+C:\Users\ubunt\source\repos\ejercicio1clases\bin\Debug\ejercicio1clases.exe
+C:\Users\ubunt\source\repos\ejercicio1clases\bin\Debug\ejercicio1clases.pdb
+C:\Users\ubunt\source\repos\ejercicio1clases\obj\Debug\ejercicio1clases.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\ejercicio1clases\obj\Debug\ejercicio1clases.FormArticulos.resources
+C:\Users\ubunt\source\repos\ejercicio1clases\obj\Debug\ejercicio1clases.Properties.Resources.resources
+C:\Users\ubunt\source\repos\ejercicio1clases\obj\Debug\ejercicio1clases.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\ejercicio1clases\obj\Debug\ejercicio1clases.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\ejercicio1clases\obj\Debug\ejercicio1clases.exe
+C:\Users\ubunt\source\repos\ejercicio1clases\obj\Debug\ejercicio1clases.pdb

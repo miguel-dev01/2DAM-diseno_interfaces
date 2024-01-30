@@ -1,0 +1,10 @@
+C:\Users\ubunt\source\repos\compra_interactiva\bin\Debug\compra_interactiva.exe.config
+C:\Users\ubunt\source\repos\compra_interactiva\bin\Debug\compra_interactiva.exe
+C:\Users\ubunt\source\repos\compra_interactiva\bin\Debug\compra_interactiva.pdb
+C:\Users\ubunt\source\repos\compra_interactiva\obj\Debug\compra_interactiva.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\compra_interactiva\obj\Debug\compra_interactiva.Form.resources
+C:\Users\ubunt\source\repos\compra_interactiva\obj\Debug\compra_interactiva.Properties.Resources.resources
+C:\Users\ubunt\source\repos\compra_interactiva\obj\Debug\compra_interactiva.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\compra_interactiva\obj\Debug\compra_interactiva.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\compra_interactiva\obj\Debug\compra_interactiva.exe
+C:\Users\ubunt\source\repos\compra_interactiva\obj\Debug\compra_interactiva.pdb
