@@ -1,0 +1,24 @@
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\bin\Debug\ZooBD.mdf
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\bin\Debug\ZooBD_log.ldf
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\bin\Debug\BBDDdisenio.exe.config
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\bin\Debug\BBDDdisenio.exe
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\bin\Debug\BBDDdisenio.pdb
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.csproj.AssemblyReference.cache
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.Form1.resources
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.Properties.Resources.resources
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.csproj.GenerateResource.cache
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.csproj.CoreCompileInputs.cache
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.exe
+C:\Users\José Manuel\source\repos\calculadora\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.pdb
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\bin\Debug\ZooBD.mdf
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\bin\Debug\ZooBD_log.ldf
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\bin\Debug\BBDDdisenio.exe.config
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\bin\Debug\BBDDdisenio.exe
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\bin\Debug\BBDDdisenio.pdb
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.csproj.AssemblyReference.cache
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.Form1.resources
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.Properties.Resources.resources
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.csproj.GenerateResource.cache
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.exe
+C:\Users\ubunt\Desktop\BBDDdisenio\BBDDdisenio\obj\Debug\BBDDdisenio.pdb

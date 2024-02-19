@@ -1,0 +1,12 @@
+C:\Users\ubunt\source\repos\bbddAdo\bin\Debug\bbddAdo.exe.config
+C:\Users\ubunt\source\repos\bbddAdo\bin\Debug\bbddAdo.exe
+C:\Users\ubunt\source\repos\bbddAdo\bin\Debug\bbddAdo.pdb
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.Properties.Resources.resources
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.exe
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.pdb
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.inicio.resources
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.FormCuentaPedido.resources
+C:\Users\ubunt\source\repos\bbddAdo\obj\Debug\bbddAdo.FormRellenarCancelarPedido.resources

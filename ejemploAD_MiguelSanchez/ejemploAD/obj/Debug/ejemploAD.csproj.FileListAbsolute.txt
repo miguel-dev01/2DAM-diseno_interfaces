@@ -1,0 +1,10 @@
+C:\Users\ubunt\source\repos\ejemploAD\bin\Debug\ejemploAD.exe.config
+C:\Users\ubunt\source\repos\ejemploAD\bin\Debug\ejemploAD.exe
+C:\Users\ubunt\source\repos\ejemploAD\bin\Debug\ejemploAD.pdb
+C:\Users\ubunt\source\repos\ejemploAD\obj\Debug\ejemploAD.csproj.AssemblyReference.cache
+C:\Users\ubunt\source\repos\ejemploAD\obj\Debug\ejemploAD.Properties.Resources.resources
+C:\Users\ubunt\source\repos\ejemploAD\obj\Debug\ejemploAD.csproj.GenerateResource.cache
+C:\Users\ubunt\source\repos\ejemploAD\obj\Debug\ejemploAD.csproj.CoreCompileInputs.cache
+C:\Users\ubunt\source\repos\ejemploAD\obj\Debug\ejemploAD.exe
+C:\Users\ubunt\source\repos\ejemploAD\obj\Debug\ejemploAD.pdb
+C:\Users\ubunt\source\repos\ejemploAD\obj\Debug\ejemploAD.Form1.resources
